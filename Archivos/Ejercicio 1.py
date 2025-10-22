@@ -16,3 +16,4 @@ with open(nombre_archivo, 'r') as archivo:
     
 
 # Tarea: investigar codigo "try" de python y traer un ejemplo 
+
