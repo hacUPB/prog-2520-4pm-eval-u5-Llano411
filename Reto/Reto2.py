@@ -65,6 +65,7 @@ def contar_palabras_caracteres():
     archivo.close()  
     
     caracteres_con_espacios = len(contenido)
+    caracteres_sin_espacios = 0
     
     for caracter in contenido:
         if caracter != ' ' and caracter != '\n' and caracter != '\t':
